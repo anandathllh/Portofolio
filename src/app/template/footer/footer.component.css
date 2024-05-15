@@ -1,0 +1,14 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.05);
+    text-align: center;
+    padding: 1rem;
+    z-index: 1000; /* Mengatur z-index tinggi */
+  }
+
+.text-body{
+    text-decoration: none;
+
+}
